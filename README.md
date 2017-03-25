@@ -9,7 +9,8 @@ https://www.packtpub.com/game-development/beginning-c-game-programming
 
 ### Timber
 The first game
-Controls
-Escape to close
-Enter to start
-Left and right arrows to move
+
+**Controls**
+1. Escape to close
+2. Enter to start
+3. Left and right arrows to move
