@@ -14,3 +14,8 @@ The first game
 1. Escape to close
 2. Enter to start
 3. Left and right arrows to move
+
+
+### Zombie Arena
+The second game
+
