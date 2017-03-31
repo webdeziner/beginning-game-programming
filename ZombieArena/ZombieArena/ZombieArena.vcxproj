@@ -143,6 +143,8 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="Pickup.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -151,8 +153,10 @@
     <ClInclude Include="ZombieArena.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Bullet.cpp" />
     <ClCompile Include="CreateBackground.cpp" />
     <ClCompile Include="CreateHorde.cpp" />
+    <ClCompile Include="Pickup.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="TextureHolder.cpp" />
     <ClCompile Include="Zombie.cpp" />
