@@ -18,6 +18,7 @@ The first game
 
 ### Zombie Arena
 The second game
+
 **Controls**
 1. Escape to close
 2. Enter to start
